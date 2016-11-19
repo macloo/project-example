@@ -1,12 +1,13 @@
 body {
     background: #ded092;
     color: #58706c;
+    padding-top: 30px;
     padding-bottom: 30px;
 }
 .highlight {
     background: #95e8ad;
 }
 
-/* 
+/*
 NOTE: never write @media queries for Bootstrap-styled pages
 */
