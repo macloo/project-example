@@ -8,13 +8,14 @@ This *README.md* file is a simple text file created in Atom. The *.md* extension
 
 Your *README.md* file can be written with no formatting at all. You may write it in Atom just as you would write a simple email. Never use HTML tags in an *.md* file.
 
-## The format of your README.md file
+## The contents of your README.md file
 
 A *README.md* file is required in your repo. This is where you will tell me what you did or did not do each week. This writeup counts toward your grade. Each week, you will:
 
+* Clearly label the week's writeup, e.g. "Week 1."
 * Evaluate what you accomplished in the week.
-* Explain why you did not complete what you said you would (if that is the case).
-* Describe what snags you hit.
+* Explain why you did not complete what you said you would (if that is the case). refer to your approved proposal AND my comments on it.
+* Describe any snags you hit.
 * Say what you are pleased about.
 * Include links to any libraries or tutorials you used. **Example:** I used this [horizontal timeline](https://codyhouse.co/demo/horizontal-timeline/index.html) from CodyHouse.
 * Explain your plans to overcome obstacles you encountered this week.
@@ -25,15 +26,15 @@ This writeup must be at least 50 words each week. It can be as long as you need 
 
 ## Week 1
 
-What you did, what you didn't do, etc. Include links to any libraries or tutorials you used. (Minimum: 50 words.)
+What you did this week, what you didn't do, etc. Include links to any libraries or tutorials you used. (Minimum: 50 words.)
 
 ## Week 2
 
-What you did, what you didn't do, etc. Include links to any libraries or tutorials you used. (Minimum: 50 words.)
+What you did in week 2, what you didn't do, etc. Include links to any libraries or tutorials you used. (Minimum: 50 words.)
 
 ## Week 3
 
-What you did, what you didn't do, etc. Include links to any libraries or tutorials you used. (Minimum: 50 words.)
+What you did in the third week, what you didn't do, etc. Include links to any libraries or tutorials you used. (Minimum: 50 words.)
 
 ## Final summary of my project
 
